@@ -1,3 +1,4 @@
+#2839
 import sys
 #f = sys.stdin
 f = open('data.txt', 'r')
